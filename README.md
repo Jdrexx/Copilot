@@ -1,5 +1,7 @@
 # AI Career Copilot
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite) ![ATS](https://img.shields.io/badge/ATS-6C5CE7?style=flat-square) ![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=markdown)
+
 Analyze a resume against a job description and generate ATS keywords, gaps, bullets, and a cover letter draft.
 
 ## Why this project exists
