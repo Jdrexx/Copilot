@@ -4,6 +4,8 @@
 
 Analyze a resume against a job description and generate ATS keywords, gaps, bullets, and a cover letter draft.
 
+![copilot-demo](screenshots/copilot-demo.png)
+
 ## Why this project exists
 
 This is a portfolio-ready MVP in the **career services** lane. It demonstrates practical API product thinking, clean documentation, tests, and a working local browser demo.
